@@ -104,6 +104,7 @@ Design intuitive UI with smooth navigation.
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-#### LinkedIn https://www.linkedin.com/in/rinika-koley-802406253
+#### LinkedIn
+https://www.linkedin.com/in/rinika-koley-802406253
 #### email-id 
 rinikakoleycollege@gmail.com
