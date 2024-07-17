@@ -12,7 +12,20 @@ GMT Project is a React-based web application that includes login/authentication,
 #### Evaluation Criteria
 #### Contributing
 #### Features
-#### Login and Authentication:
+
+## Screenshot:
+### Login Page
+
+![LoginPageScreenshot](https://github.com/user-attachments/assets/f4cfdb5c-9a96-498d-a0d9-a5455f76eb08)
+
+### Main Page:
+
+![mainPageScreenshot](https://github.com/user-attachments/assets/d22f12c8-9221-4d95-bdd3-320b88fc25c2)
+
+### Register Page:
+
+![registerPageScreenshot](https://github.com/user-attachments/assets/44032177-a92b-4f83-9997-3c082d3c75e3)
+
 
 ## Features
 ### Login and Authentication:
